@@ -1,0 +1,2 @@
+# minioservice
+minio windows service
